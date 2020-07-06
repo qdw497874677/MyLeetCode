@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c3b19a6-64e3-4981-93c4-2ef82354f29c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\repository" />
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Maven\setting.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YIZ4alJEK05wosZnQYt65m50x1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../练手项目/halo-master.zip/halo-master" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.20574713" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java工作空间\LeetCode\leetcode\editor\cn" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.P150EvaluateReversePolishNotation">
+    <configuration name="P144BinaryTreePreorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qdw.leetcode.editor.cn.P144BinaryTreePreorderTraversal" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qdw.leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P150EvaluateReversePolishNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qdw.leetcode.editor.cn.P150EvaluateReversePolishNotation" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qdw.leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P3LongestSubstringWithoutRepeatingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qdw.leetcode.editor.cn.P3LongestSubstringWithoutRepeatingCharacters" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qdw.leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P91DecodeWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qdw.leetcode.editor.cn.P91DecodeWays" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qdw.leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qdw.Sort" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qdw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.P150EvaluateReversePolishNotation" />
+        <item itemvalue="Application.P3LongestSubstringWithoutRepeatingCharacters" />
+        <item itemvalue="Application.Sort" />
+        <item itemvalue="Application.P91DecodeWays" />
+        <item itemvalue="Application.P144BinaryTreePreorderTraversal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c3b19a6-64e3-4981-93c4-2ef82354f29c" name="Default Changelist" comment="" />
+      <created>1582631878462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582631878462</updated>
+      <workItem from="1582631882400" duration="9267000" />
+      <workItem from="1582641720573" duration="544000" />
+      <workItem from="1582642296035" duration="1459000" />
+      <workItem from="1582643789972" duration="18000" />
+      <workItem from="1582643838087" duration="7980000" />
+      <workItem from="1582715549260" duration="13226000" />
+      <workItem from="1582803295613" duration="13870000" />
+      <workItem from="1582980388704" duration="3848000" />
+      <workItem from="1583062689826" duration="5957000" />
+      <workItem from="1583164455754" duration="2610000" />
+      <workItem from="1583226837217" duration="4408000" />
+      <workItem from="1583318050746" duration="3978000" />
+      <workItem from="1583332218678" duration="7255000" />
+      <workItem from="1583398270384" duration="1774000" />
+      <workItem from="1583415375158" duration="8144000" />
+      <workItem from="1583468238649" duration="8108000" />
+      <workItem from="1583546615108" duration="15849000" />
+      <workItem from="1583655511953" duration="12380000" />
+      <workItem from="1583756153113" duration="9694000" />
+      <workItem from="1583815521871" duration="2672000" />
+      <workItem from="1583842465887" duration="2968000" />
+      <workItem from="1583919792054" duration="6170000" />
+      <workItem from="1584012907931" duration="1762000" />
+      <workItem from="1584102681496" duration="2254000" />
+      <workItem from="1584174337356" duration="10240000" />
+      <workItem from="1584274860307" duration="9079000" />
+      <workItem from="1584356568533" duration="11303000" />
+      <workItem from="1584431498482" duration="5900000" />
+      <workItem from="1584532435907" duration="11272000" />
+      <workItem from="1584627736258" duration="3077000" />
+      <workItem from="1584712620615" duration="734000" />
+      <workItem from="1584787296973" duration="7241000" />
+      <workItem from="1584879563526" duration="145000" />
+      <workItem from="1584881576237" duration="2587000" />
+      <workItem from="1585057376529" duration="2120000" />
+      <workItem from="1585138042609" duration="1327000" />
+      <workItem from="1585237179908" duration="1036000" />
+      <workItem from="1585317284276" duration="19696000" />
+      <workItem from="1585445875885" duration="116000" />
+      <workItem from="1585457387136" duration="7460000" />
+      <workItem from="1585658997639" duration="1232000" />
+      <workItem from="1586013672319" duration="4153000" />
+      <workItem from="1586094087623" duration="5287000" />
+      <workItem from="1586176626769" duration="2745000" />
+      <workItem from="1586266823423" duration="1615000" />
+      <workItem from="1586343275236" duration="8925000" />
+      <workItem from="1586433094309" duration="5818000" />
+      <workItem from="1586522392454" duration="3911000" />
+      <workItem from="1586607395183" duration="4388000" />
+      <workItem from="1586667315652" duration="5343000" />
+      <workItem from="1586768633652" duration="9369000" />
+      <workItem from="1586839501495" duration="30921000" />
+      <workItem from="1586914168606" duration="13820000" />
+      <workItem from="1586949097826" duration="6931000" />
+      <workItem from="1587004225991" duration="44027000" />
+      <workItem from="1587181052107" duration="1551000" />
+      <workItem from="1587217283740" duration="13857000" />
+      <workItem from="1587385648878" duration="9872000" />
+      <workItem from="1587450955350" duration="5286000" />
+      <workItem from="1587474497753" duration="5914000" />
+      <workItem from="1587552581815" duration="5850000" />
+      <workItem from="1587564778142" duration="3716000" />
+      <workItem from="1587644860130" duration="4827000" />
+      <workItem from="1587734034710" duration="7855000" />
+      <workItem from="1587780652732" duration="17145000" />
+      <workItem from="1587907679321" duration="9448000" />
+      <workItem from="1587963077730" duration="5490000" />
+      <workItem from="1587981724107" duration="26061000" />
+      <workItem from="1588125092242" duration="8910000" />
+      <workItem from="1588159742227" duration="11035000" />
+      <workItem from="1588226465591" duration="18656000" />
+      <workItem from="1588315256980" duration="9187000" />
+      <workItem from="1588420035126" duration="8660000" />
+      <workItem from="1588469599334" duration="18809000" />
+      <workItem from="1588576586410" duration="15634000" />
+      <workItem from="1588645088607" duration="16397000" />
+      <workItem from="1588731592040" duration="14429000" />
+      <workItem from="1588818865363" duration="13554000" />
+      <workItem from="1588917270291" duration="9463000" />
+      <workItem from="1589028362877" duration="5150000" />
+      <workItem from="1589098550230" duration="12170000" />
+      <workItem from="1589180171927" duration="16220000" />
+      <workItem from="1589266806427" duration="20878000" />
+      <workItem from="1589337102366" duration="5762000" />
+      <workItem from="1589351353435" duration="48000" />
+      <workItem from="1589363264021" duration="2632000" />
+      <workItem from="1589368860019" duration="263000" />
+      <workItem from="1589447870092" duration="2048000" />
+      <workItem from="1589530669119" duration="4699000" />
+      <workItem from="1589646175493" duration="2435000" />
+      <workItem from="1589705524759" duration="1262000" />
+      <workItem from="1589811223626" duration="5393000" />
+      <workItem from="1589889535849" duration="10323000" />
+      <workItem from="1589963694366" duration="5120000" />
+      <workItem from="1590057786099" duration="7257000" />
+      <workItem from="1590244522577" duration="6252000" />
+      <workItem from="1590545304160" duration="5778000" />
+      <workItem from="1590675598863" duration="3010000" />
+      <workItem from="1591274088914" duration="1284000" />
+      <workItem from="1591444135397" duration="2228000" />
+      <workItem from="1591792296877" duration="1053000" />
+      <workItem from="1592230727452" duration="1908000" />
+      <workItem from="1592314475972" duration="2440000" />
+      <workItem from="1592578818837" duration="252000" />
+      <workItem from="1592920761024" duration="1594000" />
+      <workItem from="1593185191893" duration="728000" />
+      <workItem from="1593440969562" duration="425000" />
+      <workItem from="1593525097113" duration="577000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1587388630876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1587388630876" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1589706678104">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589706678104" />
+    <state width="847" height="164" key="GridCell.Tab.0.bottom" timestamp="1588857917389">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="847" height="164" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588857917389" />
+    <state width="847" height="164" key="GridCell.Tab.0.center" timestamp="1588857917389">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="847" height="164" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588857917389" />
+    <state width="847" height="164" key="GridCell.Tab.0.left" timestamp="1588857917388">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="847" height="164" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588857917388" />
+    <state width="847" height="164" key="GridCell.Tab.0.right" timestamp="1588857917389">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="847" height="164" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588857917389" />
+    <state x="349" y="147" key="IDE.errors.dialog" timestamp="1585060256618">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="147" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1585060256618" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1587964329489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587964329489" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1593525096488">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1593525096488" />
+    <state x="350" y="45" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588922503008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="350" y="45" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1588922503008" />
+    <state x="132" y="144" key="new project wizard" timestamp="1589706653350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="132" y="144" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1589706653350" />
+    <state x="470" y="39" key="refactoring.ChangeSignatureDialog" timestamp="1589204178471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="39" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1589204178471" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1586437213145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1586437213145" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1591444848550">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1591444848550" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/qdw/leetcode/editor/cn/P696CountBinarySubstrings.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
